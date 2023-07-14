@@ -1,0 +1,35 @@
+.only__card {
+  padding: 75px;
+}
+
+.box {
+  margin-bottom: 100px;
+}
+
+.site {
+  width: 1000px;
+  height: 400px;
+}
+
+.box__mix {
+  height: 400px;
+}
+.box__mix1,
+.box__dr,
+.box__tb {
+  height: 200px;
+}
+
+.title {
+  height: 50px;
+  width: 204.5px;
+}
+.buyBox {
+  width: 204.5px;
+  height: 150px;
+}
+
+.description,
+.related {
+  height: 96px;
+}

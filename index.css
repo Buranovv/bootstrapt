@@ -1,9 +1,12 @@
 .only__card {
-  padding: 75px;
+  padding: 284px;
 }
 
 .box {
   margin-bottom: 100px;
+}
+.card__third {
+  height: 600px;
 }
 
 .site {
